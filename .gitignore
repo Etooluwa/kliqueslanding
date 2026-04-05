@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Helper scripts
+*.py
+__pycache__/
